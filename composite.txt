@@ -1,0 +1,1532 @@
+ Metals are typically malleable (they can be hammered into thin sheets) or ductile (can be drawn into wires)
+  
+ Physically, a nonmetal tends to have a relatively low melting point, boiling point, and density
+
+ A metal may be a chemical element such as iron; an alloy such as stainless steel; or a molecular compound such as polymeric sulfur nitride
+  
+  A nonmetal is typically brittle when solid and usually has poor thermal conductivity and electrical conductivity
+
+ In physics, a metal is generally regarded as any substance capable of conducting electricity at a temperature of absolute zero
+  
+ Chemically, nonmetals tend to have relatively high ionization energy, electron affinity, and electronegativity
+
+ Many elements and compounds that are not normally classified as metals become metallic under high pressures
+  
+ They gain or share electrons when they react with other elements and chemical compounds
+
+ For example, the nonmetal iodine gradually becomes a metal at a pressure of between 40 and 170 thousand times atmospheric pressure
+  
+ Seventeen elements are generally classified as nonmetals: most are gases (hydrogen, helium, nitrogen, oxygen, fluorine, neon, chlorine, argon, krypton, xenon and radon); one is a liquid (bromine); and a few are solids (carbon, phosphorus, sulfur, selenium, and iodine)
+
+ Equally, some materials regarded as metals can become nonmetals
+  
+ Metalloids such as boron, silicon, and germanium are sometimes counted as nonmetals
+
+ Sodium, for example, becomes a nonmetal at pressure of just under two million times atmospheric pressure
+  
+ The nonmetals are divided into two categories reflecting their relative propensity to form chemical compounds: reactive nonmetals and noble gases
+
+ In chemistry, two elements that would otherwise qualify (in physics) as brittle metals—arsenic and antimony—are commonly instead recognised as metalloids, on account of their chemistry (predominately non-metallic for arsenic, and balanced between metallicity and nonmetallicity for antimony)
+  
+ The reactive nonmetals vary in their nonmetallic character
+
+ Around 95 of the 118 elements in the periodic table are metals (or are likely to be such)
+  
+ The less electronegative of them, such as carbon and sulfur, mostly have weak to moderately strong nonmetallic properties and tend to form covalent compounds with metals
+
+ The number is inexact as the boundaries between metals, nonmetals, and metalloids fluctuate slightly due to a lack of universally accepted definitions of the categories involved
+  
+ The more electronegative of the reactive nonmetals, such as oxygen and fluorine, are characterised by stronger nonmetallic properties and a tendency to form predominantly ionic compounds with metals
+
+ In astrophysics the term "metal" is cast more widely to refer to all chemical elements in a star that are heavier than the lightest two, hydrogen and helium, and not just traditional metals
+  
+ The noble gases are distinguished by their great reluctance to form compounds with other elements
+
+ A star fuses lighter atoms, mostly hydrogen and helium, into heavier atoms over its lifetime
+  
+ The distinction between categories is not absolute
+
+ Used in that sense, the metallicity of an astronomical object is the proportion of its matter made up of the heavier chemical elements
+  
+ Boundary overlaps, including with the metalloids, occur as outlying elements in each category show or begin to show less-distinct, hybrid-like, or atypical properties
+
+Metals, as chemical elements, comprise 25% of the Earth's crust and are present in many aspects of modern life
+  
+ Although five times more elements are metals than nonmetals, two of the nonmetals—hydrogen and helium—make up over 99 percent of the observable universe
+
+ The strength and resilience of some metals has led to their frequent use in, for example, high-rise building and bridge construction, as well as most vehicles, many home appliances, tools, pipes, and railroad tracks
+  
+ Another nonmetal, oxygen, makes up almost half of the Earth's crust, oceans, and atmosphere
+
+ Precious metals were historically used as coinage, but in the modern era, coinage metals have extended to at least 23 of the chemical elements
+  
+ Living organisms are composed almost entirely of nonmetals: hydrogen, oxygen, carbon, and nitrogen
+
+The history of refined metals is thought to begin with the use of copper about 11,000 years ago
+  
+ Nonmetals form many more compounds than metals
+
+ Gold, silver, iron (as meteoric iron), lead, and brass were likewise in use before the first known appearance of bronze in the 5th millennium BCE
+  
+   == Definition and applicable elements ==  There is no rigorous definition of a nonmetal
+
+ Subsequent developments include the production of early forms of steel; the discovery of sodium—the first light metal—in 1809; the rise of modern alloy steels; and, since the end of World War II, the development of more sophisticated alloys
+  
+ Broadly, any element lacking a preponderance of metallic properties can be regarded as a nonmetal
+
+   == Properties ==   === Form and structure ===  Metals are shiny and lustrous, at least when freshly prepared, polished, or fractured
+  
+ The elements generally classified as nonmetals include one element in group 1 (hydrogen); one in group 14 (carbon); two in group 15 (nitrogen and phosphorus); three in group 16 (oxygen, sulfur and selenium); most of group 17 (fluorine, chlorine, bromine and iodine); and all of group 18 (with the possible exception of oganesson)
+
+ Sheets of metal thicker than a few micrometres appear opaque, but gold leaf transmits green light
+  
+ As there is no widely agreed definition of a nonmetal, elements in the periodic table vicinity of where the metals meet the nonmetals are inconsistently classified by different authors
+
+ The solid or liquid state of metals largely originates in the capacity of the metal atoms involved to readily lose their outer shell electrons
+  
+ Elements sometimes also classified as nonmetals are the metalloids boron (B), silicon (Si), germanium (Ge), arsenic (As), antimony (Sb), tellurium (Te), and astatine (At)
+
+ Broadly, the forces holding an individual atom's outer shell electrons in place are weaker than the attractive forces on the same electrons arising from interactions between the atoms in the solid or liquid metal
+  
+ The nonmetal selenium (Se) is sometimes instead classified as a metalloid, particularly in environmental chemistry
+
+ The electrons involved become delocalised and the atomic structure of a metal can effectively be visualised as a collection of atoms embedded in a cloud of relatively mobile electrons
+  
+   == Properties ==  Nonmetals show more variability in their properties than do metals
+
+ This type of interaction is called a metallic bond
+  
+ These properties are largely determined by the interatomic bonding strengths and molecular structures of the nonmetals involved, both of which are subject to variation as the number of valence electrons in each nonmetal varies
+
+ The strength of metallic bonds for different elemental metals reaches a maximum around the center of the transition metal series, as these elements have large numbers of delocalized electrons
+  
+ Metals, in contrast, have more homogenous structures and their properties are more easily reconciled
+
+Although most elemental metals have higher densities than most nonmetals, there is a wide variation in their densities, lithium being the least dense (0
+  
+Physically, they largely exist as diatomic or monatomic gases, with the remainder having more substantial (open-packed) forms, unlike metals, which are nearly all solid and close-packed
+
+534 g/cm3) and osmium (22
+  
+ If solid, they have a submetallic appearance (with the exception of sulfur) and are mostly brittle, as opposed to metals, which are lustrous, and generally ductile or malleable; they usually have lower densities than metals; are mostly poorer conductors of heat and electricity; and tend to have significantly lower melting points and boiling points than those of metals
+
+59 g/cm3) the most dense
+  
+  Chemically the nonmetals mostly have high ionisation energies, high electron affinities (nitrogen and the noble gases have negative electron affinities) and high electronegativity values noting that, in general, the higher an element's ionisation energy, electron affinity, and electronegativity, the more nonmetallic that element is
+
+ Magnesium, aluminum and titanium are light metals of significant commercial importance
+  
+ Nonmetals (including – to a limited extent – xenon and probably radon) usually exist as anions or oxyanions in aqueous solution; they generally form ionic or covalent compounds when combined with metals (unlike metals, which mostly form alloys with other metals); and have acidic oxides whereas the common oxides of nearly all metals are basic
+
+ Their respective densities of 1
+  
+ Complicating the chemistry of the nonmetals is the first row anomaly seen particularly in hydrogen, (boron), carbon, nitrogen, oxygen and fluorine; and the alternation effect seen in (arsenic), selenium and bromine
+
+7, 2
+  
+ The first row anomaly largely arises from the electron configurations of the elements concerned
+
+7 and 4
+  
+ Hydrogen is noted for the different ways it forms bonds
+
+5 g/cm3 can be compared to those of the older structural metals, like iron at 7
+  
+ It most commonly forms covalent bonds
+
+9 and copper at 8
+  
+ It can lose its single valence electron in aqueous solution, leaving behind a bare proton with tremendous polarising power
+
+9 g/cm3
+  
+ This subsequently attaches itself to the lone electron pair of an oxygen atom in a water molecule, thereby forming the basis of acid-base chemistry
+
+ An iron ball would thus weigh about as much as three aluminum balls
+  
+ Under certain conditions a hydrogen atom in a molecule can form a second, weaker, bond with an atom or group of atoms in another molecule
+
+  Metals are typically malleable and ductile, deforming under stress without cleaving
+  
+ Such bonding, "helps give snowflakes their hexagonal symmetry, binds DNA into a double helix; shapes the three-dimensional forms of proteins; and even raises water's boiling point high enough to make a decent cup of tea
+
+ The nondirectional nature of metallic bonding is thought to contribute significantly to the ductility of most metallic solids
+  
+" From (boron) to neon, since the 2p subshell has no inner analogue and experiences no electron repulsion effects it consequently has a relatively small radius, unlike the 3p, 4p and 5p subshells of heavier elements (a similar effect is seen in the 1s elements, hydrogen and helium)
+
+ In contrast, in an ionic compound like table salt, when the planes of an ionic bond slide past one another, the resultant change in location shifts ions of the same charge into close proximity, resulting in the cleavage of the crystal
+  
+ Ionisation energies and electronegativities among these elements are consequently higher than would otherwise be expected, having regard to periodic trends
+
+ Such a shift is not observed in a covalently bonded crystal, such as a diamond, where fracture and crystal fragmentation occurs
+  
+ The small atomic radii of carbon, nitrogen, and oxygen facilitates the formation of triple or double bonds
+
+ Reversible elastic deformation in metals can be described by Hooke's Law for restoring forces, where the stress is linearly proportional to the strain
+  
+ The larger atomic radii, which enable higher coordination numbers, and lower electronegativities, which better tolerate higher positive charges, of the heavier group 15–18 nonmetals means they are able to exhibit valences other than the lowest for their group (that is, 3, 2, 1, or 0) for example in PCl5, SF6, IF7, and XeF2
+
+ Heat or forces larger than a metal's elastic limit may cause a permanent (irreversible) deformation, known as plastic deformation or plasticity
+  
+ Period four elements immediately after the first row of the transition metals, such as selenium and bromine, have unusually small atomic radii because the 3d electrons are not effective at shielding the increased nuclear charge, and smaller atomic size correlates with higher electronegativity
+
+ An applied force may be a tensile (pulling) force, a compressive (pushing) force, or a shear, bending or torsion (twisting) force
+  
+   == Categories == Immediately to the left of most nonmetals on the periodic table are metalloids such as boron, silicon, and germanium, which generally behave chemically like nonmetals, and are included here for comparative purposes
+
+ A temperature change may affect the movement or displacement of structural defects in the metal such as grain boundaries, point vacancies, line and screw dislocations, stacking faults and twins in both crystalline and non-crystalline metals
+  
+ In this sense they can be regarded as the most metallic of nonmetallic elements
+
+ Internal slip, creep, and metal fatigue may ensue
+  
+ Based on shared attributes, the nonmetals can be divided into the two categories of reactive nonmetal, and noble gas
+
+ The atoms of metallic substances are typically arranged in one of three common crystal structures, namely body-centered cubic (bcc), face-centered cubic (fcc), and hexagonal close-packed (hcp)
+  
+ The metalloids and the two nonmetal categories then span a progression in chemical nature from weakly nonmetallic, to moderately nonmetallic, to strongly nonmetallic (oxygen and the four nonmetallic halogens), to almost inert
+
+ In bcc, each atom is positioned at the center of a cube of eight others
+  
+ Analogous categories occur among the metals in the form of the weakly metallic (the post-transition metals), the moderately metallic (most of the transition metals), the strongly metallic (the alkali metal and alkaline earth metals, and the lanthanides and actinides), and the relatively inert (the noble transition metals)
+
+ In fcc and hcp, each atom is surrounded by twelve others, but the stacking of the layers differs
+  
+ As with categorisation schemes generally, there is some variation and overlapping of properties within and across each category
+
+ Some metals adopt different structures depending on the temperature
+  
+ One or more of the metalloids are sometimes classified as nonmetals
+
+  		 		 		 		 		 The unit cell for each crystal structure is the smallest group of atoms which has the overall symmetry of the crystal, and from which the entire crystalline lattice can be built up by repetition in three dimensions
+  
+ Among the reactive nonmetals, carbon, phosphorus, selenium, and iodine—which border the metalloids—show some metallic character, as does hydrogen
+
+ In the case of the body-centered cubic crystal structure shown above, the unit cell is made up of the central atom plus one-eight of each of the eight corner atoms
+  
+ Among the noble gases, radon is the most metallic and begins to show some cationic behaviour, which is unusual for a nonmetal
+
+   === Electrical and thermal ===  The electronic structure of metals means they are relatively good conductors of electricity
+  
+   === Metalloid ===  The seven metalloids are boron (B), silicon (Si), germanium (Ge), arsenic (As), antimony (Sb), tellurium (Te), and astatine (At)
+
+ Electrons in matter can only have fixed rather than variable energy levels, and in a metal the energy levels of the electrons in its electron cloud, at least to some degree, correspond to the energy levels at which electrical conduction can occur
+  
+ On a standard periodic table, they occupy a diagonal area in the p-block extending from boron at the upper left to astatine at lower right, along the dividing line between metals and nonmetals shown on some periodic tables
+
+ In a semiconductor like silicon or a nonmetal like sulfur there is an energy gap between the electrons in the substance and the energy level at which electrical conduction can occur
+  
+ They are called metalloids mainly in light of their physical resemblance to metals
+
+ Consequently, semiconductors and nonmetals are relatively poor conductors
+  
+ While they each have a metallic appearance, they are brittle and only fair conductors of electricity
+
+ The elemental metals have electrical conductivity values of from 6
+  
+ Boron, silicon, germanium, tellurium are semiconductors
+
+9 × 103 S/cm for manganese to 6
+  
+ Arsenic and antimony have the electronic band structures of semimetals although both have less stable semiconducting allotropes
+
+3 × 105 S/cm for silver
+  
+ Astatine has been predicted to have a metallic crystalline structure
+
+ In contrast, a semiconducting metalloid such as boron has an electrical conductivity 1
+  
+  Chemically the metalloids generally behave like (weak) nonmetals
+
+5 × 10−6 S/cm
+  
+ They have moderate ionisation energies, low to high electron affinities, moderate electronegativity values, are poor to moderately strong oxidising agents, and demonstrate a tendency to form alloys with metals
+
+ With one exception, metallic elements reduce their electrical conductivity when heated
+  
+   === Reactive nonmetal ===  The reactive nonmetals have a diverse range of individual physical and chemical properties
+
+ Plutonium increases its electrical conductivity when heated in the temperature range of around −175 to +125 °C
+  
+ In periodic table terms they largely occupy a position between the weakly nonmetallic metalloids to the left and the noble gases to the right
+
+ Metals are relatively good conductors of heat
+  
+ Physically, five are solids, one is a liquid (bromine), and five are gases
+
+ The electrons in a metal's electron cloud are highly mobile and easily able to pass on heat-induced vibrational energy
+  
+ Of the solids, graphite carbon, selenium, and iodine are metallic-looking, whereas S8 sulfur has a pale-yellow appearance
+
+ The contribution of a metal's electrons to its heat capacity and thermal conductivity, and the electrical conductivity of the metal itself can be calculated from the free electron model
+  
+ Ordinary white phosphorus has a yellowish-white appearance but the black allotrope, which is the most stable form of phosphorus, has a metallic-looking appearance
+
+ However, this does not take into account the detailed structure of the metal's ion lattice
+  
+ Bromine is a reddish-brown liquid
+
+ Taking into account the positive potential caused by the arrangement of the ion cores enables consideration of the electronic band structure and binding energy of a metal
+  
+ Of the gases, fluorine and chlorine are coloured pale yellow, and yellowish green
+
+ Various mathematical models are applicable, the simplest being the nearly free electron model
+  
+ Electrically, most are insulators whereas graphite is a semimetal and black phosphorus, selenium, and iodine are semiconductors
+
+   === Chemical === Metals are usually inclined to form cations through electron loss
+  
+ Chemically, they tend to have moderate to high ionisation energies, electron affinities, and electronegativity values, and be relatively strong oxidising agents
+
+ Most will react with oxygen in the air to form oxides over various timescales (potassium burns in seconds while iron rusts over years)
+  
+ Collectively, the highest values of these properties are found among oxygen and the nonmetallic halogens
+
+ Some others, like palladium, platinum and gold, do not react with the atmosphere at all
+  
+ Manifestations of this status include oxygen's major association with the ubiquitous processes of corrosion and combustion, and the intrinsically corrosive nature of the nonmetallic halogens
+
+ The oxides of metals are generally basic, as opposed to those of nonmetals, which are acidic or neutral
+  
+ All five of these nonmetals exhibit a tendency to form predominately ionic compounds with metals whereas the remaining nonmetals tend to form predominately covalent compounds with metals
+
+ Exceptions are largely oxides with very high oxidation states such as CrO3, Mn2O7, and OsO4, which have strictly acidic reactions
+  
+   === Noble gas ===  Six nonmetals are categorised as noble gases: helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), and the radioactive radon (Rn)
+
+ Painting, anodizing or plating metals are good ways to prevent their corrosion
+  
+ In periodic table terms they occupy the outermost right column
+
+ However, a more reactive metal in the electrochemical series must be chosen for coating, especially when chipping of the coating is expected
+  
+ They are called noble gases in light of their characteristically very low chemical reactivity
+
+ Water and the two metals form an electrochemical cell, and if the coating is less reactive than the underlying metal, the coating actually promotes corrosion
+  
+ They have very similar properties, all being colorless, odorless, and nonflammable
+
+   == Periodic table distribution == In chemistry, the elements which are usually considered to be metals under ordinary conditions are shown in yellow on the periodic table below
+  
+ With their closed valence shells the noble gases have feeble interatomic forces of attraction resulting in very low melting and boiling points
+
+ The elements shown as having unknown properties are likely to be metals
+  
+ That is why they are all gases under standard conditions, even those with atomic masses larger than many normally solid elements
+
+ The remaining elements are either metalloids (B, Si, Ge, As, Sb, and Te being commonly recognised as such) or nonmetals
+  
+Chemically, the noble gases have relatively high ionization energies, negative electron affinities, and relatively high electronegativities
+
+ Astatine (At) is usually classified as either a nonmetal or a metalloid; it has been predicted to be a metal, and that is how it is shown here
+  
+ Compounds of the noble gases number less than half a thousand, with most of these occurring via oxygen or fluorine combining with either krypton, xenon or radon
+
+   == Alloys ==  An alloy is a substance having metallic properties and which is composed of two or more elements at least one of which is a metal
+  
+ The status of the period 7 congener of the noble gases, oganesson (Og), is not known—it may or may not be a noble gas
+
+ An alloy may have a variable or fixed composition
+  
+ It was originally predicted to be a noble gas but may instead be a fairly reactive solid with an anomalously low first ionisation potential, and a positive electron affinity, due to relativistic effects
+
+ For example, gold and silver form an alloy in which the proportions of gold or silver can be freely adjusted; titanium and silicon form an alloy Ti2Si in which the ratio of the two components is fixed (also known as an intermetallic compound)
+  
+ On the other hand, if relativistic effects peak in period 7 at element 112, copernicium, oganesson may turn out to be a noble gas after all, albeit more reactive than either xenon or radon
+
+  Most pure metals are either too soft, brittle or chemically reactive for practical use
+  
+ While oganesson could be expected to be the most metallic of the group 18 elements, credible predictions on its status as either a metal or a nonmetal (or a metalloid) appear to be absent
+
+ Combining different ratios of metals as alloys modifies the properties of pure metals to produce desirable characteristics
+  
+   === Alternative categories ===  The nonmetals are sometimes instead divided according to either (1) the relative homogeneity of the halogens; (2) physical form; (3) electronegativity; (4) molecular structure; (5) the peculiar nature of hydrogen, and the relative homogeneity of the halogens; (6) their analogous categories among the metals; or (7) the uniqueness of hydrogen and the treatment of the metalloids as nonmetallic analogues of the post-transition metals
+
+ The aim of making alloys is generally to make them less brittle, harder, resistant to corrosion, or have a more desirable color and luster
+  
+ In scheme (1), the halogens are in a category of their own; astatine is classed as a nonmetal, rather than a metalloid; and the remaining nonmetals are referred to as other nonmetals
+
+ Of all the metallic alloys in use today, the alloys of iron (steel, stainless steel, cast iron, tool steel, alloy steel) make up the largest proportion both by quantity and commercial value
+  
+ If selenium is counted as a metalloid rather than another nonmetal, the resulting set of less active nonmetals (H, C, N, P, O, S) are sometimes instead referred to or categorised as organogens, CHONPS elements or biogens
+
+ Iron alloyed with various proportions of carbon gives low, mid and high carbon steels, with increasing carbon levels reducing ductility and toughness
+  
+ Collectively these six nonmetals comprise the bulk of life on Earth; a rough estimate of the composition of the biosphere is C1450H3000O1450N15P1S1
+
+ The addition of silicon will produce cast irons, while the addition of chromium, nickel and molybdenum to carbon steels (more than 10%) results in stainless steels
+  
+In scheme (2), the nonmetals can simply be divided based on their physical forms at room temperature and pressure
+
+ Other significant metallic alloys are those of aluminum, titanium, copper and magnesium
+  
+ The fluid nonmetals (bromine and the gaseous nonmetals) have the highest ionisation energy and electronegativity values among the elements, with the exception of hydrogen which tends to be anomalous in whichever category it is placed in
+
+ Copper alloys have been known since prehistory—bronze gave the Bronze Age its name—and have many applications today, most importantly in electrical wiring
+  
+ The solid nonmetals are collectively the most metallic of the nonmetallic elements, apart from the metalloids
+
+ The alloys of the other three metals have been developed relatively recently; due to their chemical reactivity they require electrolytic extraction processes
+  
+ In scheme (3), the nonmetals are divided based on a loose correlation between electronegativity and oxidizing power
+
+ The alloys of aluminum, titanium and magnesium are valued for their high strength-to-weight ratios; magnesium can also provide electromagnetic shielding
+  
+ Very electronegative nonmetals have electronegativity values over 2
+
+ These materials are ideal for situations where high strength-to-weight ratio is more important than material cost, such as in aerospace and some automotive applications
+  
+8; electronegative nonmetals have values of 1
+
+ Alloys specially designed for highly demanding applications, such as jet engines, may contain more than ten elements
+  
+9 to 2
+
+   == Categories ==  Metals can be categorised according to their physical or chemical properties
+  
+8
+
+ Categories described in the subsections below include ferrous and non-ferrous metals; brittle metals and refractory metals; white metals; heavy and light metals; and base, noble, and precious metals
+  
+ In scheme (4), the nonmetals are distinguished based on the molecular structures of their most thermodynamically stable forms in ambient conditions
+
+ The Metallic elements table in this section categorises the elemental metals on the basis of their chemical properties into alkali and alkaline earth metals; transition and post-transition metals; and lanthanides and actinides
+  
+ Polyatomic nonmetals form structures or molecules in which each atom has two or three nearest neighbours (Cx, P4, S8, Sex); diatomic nonmetals form molecules in which each atom has one nearest neighbour (H2, N2, O2, F2, Cl2, Br2, I2); and the monatomic noble gases exist as isolated atoms (He, Ne, Ar, Kr, Xe, Rn) with no fixed nearest neighbour
+
+ Other categories are possible, depending on the criteria for inclusion
+  
+ This gradual reduction in the number of nearest neighbours corresponds (approximately) to a reduction in metallic character
+
+ For example, the ferromagnetic metals—those metals that are magnetic at room temperature—are iron, cobalt, and nickel
+  
+ A similar progression is seem among the metals
+
+   === Ferrous and non-ferrous metals ===  The term "ferrous" is derived from the Latin word meaning "containing iron"
+  
+ Metallic bonding tends to involve close-packed centrosymmetric structures with a high number of nearest neighbours
+
+ This can include pure iron, such as wrought iron, or an alloy such as steel
+  
+ Post-transition metals and metalloids, sandwiched between the true metals and the nonmetals, tend to have more complex structures with an intermediate number of nearest neighbours
+
+ Ferrous metals are often magnetic, but not exclusively
+  
+ In scheme (5), hydrogen is placed by itself on account of it being "so different from all other elements"
+
+ Non-ferrous metals—alloys—lack appreciable amounts of iron
+  
+ The remaining nonmetals are divided into nonmetals, halogens, and noble gases, with the unnamed category being distinguished by including nonmetals with relatively strong interatomic bonding, and the metalloids being effectively treated as a third super-category alongside metals and nonmetals
+
+   === Brittle metal === While nearly all metals are malleable or ductile, a few—beryllium, chromium, manganese, gallium, and bismuth—are brittle
+  
+  Scheme (6) is a variant of scheme 5 in which the C, N, O, P, S, Se are categorised as carbon and other nonmetals (no emphasis)
+
+ Arsenic, and antimony, if admitted as metals, are brittle
+  
+In scheme (7) the nonmetals are divided into four classes that complement a four-fold division of the metals, with the noble metals treated as a subset of the transition metals
+
+ Low values of the ratio of bulk elastic modulus to shear modulus (Pugh's criterion) are indicative of intrinsic brittleness
+  
+ The metalloids are treated as chemically weak nonmetals, in a manner analogous to their chemically weak frontier metal counterparts
+
+   === Refractory metal ===  In materials science, metallurgy, and engineering, a refractory metal is a metal that is extraordinarily resistant to heat and wear
+  
+In scheme (8), hydrogen is again placed by itself on account of its uniqueness
+
+ Which metals belong to this category varies; the most common definition includes niobium, molybdenum, tantalum, tungsten, and rhenium
+  
+ The remaining nonmetals are divided into metalloids, nonmetals, (referred to as "quintessential nonmetals"), halogens, and noble gases
+
+ They all have melting points above 2000 °C, and a high hardness at room temperature
+  
+ Since the metalloids abut the post-transition or "poor" metals, they might be renamed the "poor non-metals"
+
+  		 		 		 		 		 		 		 		 		   === White metal === A white metal is any of range of white-coloured metals (or their alloys) with relatively low melting points
+  
+Scheme (9) is a variant of scheme 8 in which the metalloids are labeled as semiconductors (with Po regarded as a post-transition metal) and C, N, O, P, S, Se categorised as other nonmetals
+
+ Such metals include zinc, cadmium, tin, antimony (here counted as a metal), lead, and bismuth, some of which are quite toxic
+  
+   == Comparison of properties == Characteristic and other properties of metalloids, reactive nonmetals, and noble gases are summarized in the following table
+
+ In Britain, the fine art trade uses the term "white metal" in auction catalogues to describe foreign silver items which do not carry British Assay Office marks, but which are nonetheless understood to be silver and are priced accordingly
+  
+ Metalloids have been included in light of their generally nonmetallic chemistry
+
+   === Heavy and light metals ===  A heavy metal is any relatively dense metal or metalloid
+  
+ Physical properties are listed in loose order of ease of determination; chemical properties run from general to specific, and then to descriptive
+
+ More specific definitions have been proposed, but none have obtained widespread acceptance
+  
+  * Bulk astatine has been predicted to have a metallic face-centred cubic structure † Hydrogen can also form alloy-like hydrides   == Properties of nonmetals (and metalloids) by group == Abbreviations used in this section are: AR Allred-Rochow; CN coordination number; and MH Moh's hardness   === Group 1 ===  Hydrogen is a colourless, odourless, and comparatively unreactive diatomic gas with a density of 8
+
+ Some heavy metals have niche uses, or are notably toxic; some are essential in trace amounts
+  
+988 × 10−5 g/cm3 and is about 14 times lighter than air
+
+ All other metals are light metals
+  
+ It condenses to a colourless liquid −252
+
+   === Base, noble and precious metals ===  In chemistry, the term base metal is used informally to refer to a metal that is easily oxidized or corroded, such as reacting easily with dilute hydrochloric acid (HCl) to form a metal chloride and hydrogen
+  
+879 °C and freezes into an ice- or snow-like solid at −259
+
+ Examples include iron, nickel, lead and zinc
+  
+16 °C
+
+ Copper is considered a base metal as it is oxidized relatively easily, although it does not react with HCl
+  
+ The solid form has a hexagonal crystalline structure and is soft and easily crushed
+
+  The term noble metal is commonly used in opposition to base metal
+  
+ Hydrogen is an insulator in all of its forms
+
+ Noble metals are resistant to corrosion or oxidation, unlike most base metals
+  
+ It has a high ionisation energy (1312
+
+ They tend to be precious metals, often due to perceived rarity
+  
+0 kJ/mol), moderate electron affinity (73 kJ/mol), and moderate electronegativity (2
+
+ Examples include gold, platinum, silver, rhodium, iridium and palladium
+  
+2)
+
+ In alchemy and numismatics, the term base metal is contrasted with precious metal, that is, those of high economic value
+  
+ Hydrogen is a poor oxidising agent (H2 + 2e− → 2H– = –2
+
+ A longtime goal of the alchemists was the transmutation of base metals into precious metals including such coinage metals as silver and gold
+  
+25 V at pH 0)
+
+ Most coins today are made of base metals with no intrinsic value, in the past, coins frequently derived their value primarily from their precious metal content
+  
+ Its chemistry, most of which is based around its tendency to acquire the electron configuration of the noble gas helium, is largely covalent in nature, noting it can form ionic hydrides with highly electropositive metals, and alloy-like hydrides with some transition metals
+
+ Chemically, the precious metals (like the noble metals) are less reactive than most elements, have high luster and high electrical conductivity
+  
+ The common oxide of hydrogen (H2O) is a neutral oxide
+
+ Historically, precious metals were important as currency, but are now regarded mainly as investment and industrial commodities
+  
+   === Group 13 ===  Boron is a lustrous, barely reactive solid with a density 2
+
+ Gold, silver, platinum and palladium each have an ISO 4217 currency code
+  
+34 g/cm3 (cf
+
+ The best-known precious metals are gold and silver
+  
+ aluminium 2
+
+ While both have industrial uses, they are better known for their uses in art, jewelry, and coinage
+  
+70), and is hard (MH 9
+
+ Other precious metals include the platinum group metals: ruthenium, rhodium, palladium, osmium, iridium, and platinum, of which platinum is the most widely traded
+  
+3) and brittle
+
+ The demand for precious metals is driven not only by their practical use, but also by their role as investments and a store of value
+  
+ It melts at 2076 °C (cf
+
+ Palladium and platinum, as of fall 2018, were valued at about three quarters the price of gold
+  
+ steel ~1370 °C) and boils at 3927 °C
+
+ Silver is substantially less expensive than these metals, but is often traditionally considered a precious metal in light of its role in coinage and jewelry
+  
+ Boron has a complex rhombohedral crystalline structure (CN 5+)
+
+   == Lifecycle ==   === Formation ===  This sub-section deals with the formation of periodic table elemental metals since these form the basis of metallic materials, as defined in this article
+  
+ It is a semiconductor with a band gap of about 1
+
+Metals up to the vicinity of iron (in the periodic table) are largely made via stellar nucleosynthesis
+  
+56 eV
+
+ In this process, lighter elements from hydrogen to silicon undergo successive fusion reactions inside stars, releasing light and heat and forming heavier elements with higher atomic numbers
+  
+ Boron has a moderate ionisation energy (800
+
+Heavier metals are not usually formed this way since fusion reactions involving such nuclei would consume rather than release energy
+  
+6 kJ/mol), low electron affinity (27 kJ/mol), and moderate electronegativity (2
+
+ Rather, they are largely synthesised (from elements with a lower atomic number) by neutron capture, with the two main modes of this repetitive capture being the s-process and the r-process
+  
+04)
+
+ In the s-process ("s" stands for "slow"), singular captures are separated by years or decades, allowing the less stable nuclei to beta decay, while in the r-process ("rapid"), captures happen faster than nuclei can decay
+  
+ Being a metalloid, most of its   chemistry is nonmetallic in nature
+
+ Therefore, the s-process takes a more or less clear path: for example, stable cadmium-110 nuclei are successively bombarded by free neutrons inside a star until they form cadmium-115 nuclei which are unstable and decay to form indium-115 (which is nearly stable, with a half-life 30000 times the age of the universe)
+  
+ Boron is a poor oxidizing agent (B12 + 3e → BH3 = –0
+
+ These nuclei capture neutrons and form indium-116, which is unstable, and decays to form tin-116, and so on
+  
+15 V at pH 0)
+
+ In contrast, there is no such path in the r-process
+  
+ While it bonds covalently in nearly all of its compounds, it can form intermetallic compounds and alloys with transition metals of the composition MnB, if n > 2
+
+ The s-process stops at bismuth due to the short half-lives of the next two elements, polonium and astatine, which decay to bismuth or lead
+  
+ The common oxide of boron (B2O3) is weakly acidic
+
+ The r-process is so fast it can skip this zone of instability and go on to create heavier elements such as thorium and uranium
+  
+   === Group 14 ===  Carbon (as graphite, its most thermodynamically stable form) is a lustrous and comparatively unreactive solid with a density of 2
+
+Metals condense in planets as a result of stellar evolution and destruction processes
+  
+267 g/cm3, and is soft (MH 0
+
+ Stars lose much of their mass when it is ejected late in their lifetimes, and sometimes thereafter as a result of a neutron star merger, thereby increasing the abundance of elements heavier than helium in the interstellar medium
+  
+5) and brittle
+
+ When gravitational attraction causes this matter to coalesce and collapse new stars and planets are formed
+  
+ It sublimes to vapour at 3642 C°
+
+   === Abundance and occurrence ===  The Earth's crust is made of approximately 25% of metals by weight, of which 80% are light metals such as sodium, magnesium, and aluminum
+  
+ Carbon has a hexagonal crystalline structure (CN 3)
+
+ Nonmetals (~75%) make up the rest of the crust
+  
+ It is a semimetal in the direction of its planes, with an electrical conductivity exceeding that of some metals, and behaves as a semiconductor in the direction perpendicular to its planes
+
+ Despite the overall scarcity of some heavier metals such as copper, they can become concentrated in economically extractable quantities as a result of mountain building, erosion, or other geological processes
+  
+ It has a high ionisation energy (1086
+
+ Metals are primarily found as lithophiles (rock-loving) or chalcophiles (ore-loving)
+  
+5 kJ/mol), moderate electron affinity (122 kJ/mol), and high electronegativity (2
+
+ Lithophile metals are mainly the s-block elements, the more reactive of the d-block elements
+  
+55)
+
+ and the f-block elements
+  
+ Carbon is a poor oxidising agent (C + 4e− → CH4 = 0
+
+ They have a strong affinity for oxygen and mostly exist as relatively low density silicate minerals
+  
+13 V at pH 0)
+
+ Chalcophile metals are mainly the less reactive d-block elements, and the period 4–6 p-block metals
+  
+ Its chemistry is largely covalent in nature, noting it can form salt-like carbides with highly electropositive metals
+
+ They are usually found in (insoluble) sulfide minerals
+  
+ The common oxide of carbon (CO2) is a medium-strength acidic oxide
+
+ Being denser than the lithophiles, hence sinking lower into the crust at the time of its solidification, the chalcophiles tend to be less abundant than the lithophiles
+  
+  Silicon is a metallic-looking relatively unreactive solid  with a density of 2
+
+ On the other hand, gold is a siderophile, or iron-loving element
+  
+3290 g/cm3, and is hard (MH 6
+
+ It does not readily form compounds with either oxygen or sulfur
+  
+5) and brittle
+
+ At the time of the Earth's formation, and as the most noble (inert) of metals, gold sank into the core due to its tendency to form high-density metallic alloys
+  
+ It melts at 1414 °C (cf
+
+ Consequently, it is a relatively rare metal
+  
+ steel ~1370 °C) and boils at 3265 °C
+
+ Some other (less) noble metals—molybdenum, rhenium, the platinum group metals (ruthenium, rhodium, palladium, osmium, iridium, and platinum), germanium, and tin—can be counted as siderophiles but only in terms of their primary occurrence in the Earth (core, mantle and crust), rather the crust
+  
+ Silicon has a diamond cubic structure (CN 4)
+
+ These metals otherwise occur in the crust, in small quantities, chiefly as chalcophiles (less so in their native form)
+  
+ It is a semiconductor with a band gap of about 1
+
+The rotating fluid outer core of the Earth's interior, which is composed mostly of iron, is thought to be the source of Earth's protective magnetic field
+  
+11 eV
+
+ The core lies above Earth's solid inner core and below its mantle
+  
+ Silicon has a moderate ionisation energy (786
+
+ If it could be rearranged into a column having a 5 m2 (54 sq ft) footprint it would have a height of nearly 700 light years
+  
+5 kJ/mol), moderate electron affinity (134 kJ/mol), and moderate electronegativity (1
+
+ The magnetic field shields the Earth from the charged particles of the solar wind, and cosmic rays that would otherwise strip away the upper atmosphere (including the ozone layer that limits the transmission of ultraviolet radiation)
+  
+9)
+
+   === Extraction ===  Metals are often extracted from the Earth by means of mining ores that are rich sources of the requisite elements, such as bauxite
+  
+ It is a poor oxidising agent (Si + 4e → Si4 = –0
+
+ Ore is located by prospecting techniques, followed by the exploration and examination of deposits
+  
+147 at pH 0)
+
+ Mineral sources are generally divided into surface mines, which are mined by excavation using heavy equipment, and subsurface mines
+  
+ As a metalloid the chemistry of silicon is largely covalent in nature, noting it can form alloys with metals such as iron and copper
+
+ In some cases, the sale price of the metal/s involved make it economically feasible to mine lower concentration sources
+  
+ The common oxide of silicon (SiO2) is weakly acidic
+
+ Once the ore is mined, the metals must be extracted, usually by chemical or electrolytic reduction
+  
+  Germanium is a shiny, mostly unreactive grey-white solid with a density of 5
+
+ Pyrometallurgy uses high temperatures to convert ore into raw metals, while hydrometallurgy employs aqueous chemistry for the same purpose
+  
+323 g/cm3 (about two-thirds that of iron), and is hard (MH 6
+
+ The methods used depend on the metal and their contaminants
+  
+0) and brittle
+
+ When a metal ore is an ionic compound of that metal and a non-metal, the ore must usually be smelted—heated with a reducing agent—to extract the pure metal
+  
+ It melts at 938
+
+ Many common metals, such as iron, are smelted using carbon as a reducing agent
+  
+25 °C (cf
+
+ Some metals, such as aluminum and sodium, have no commercially practical reducing agent, and are extracted using electrolysis instead
+  
+ silver 961
+
+Sulfide ores are not reduced directly to the metal but are roasted in air to convert them to oxides
+  
+78 °C) and boils at 2833 °C
+
+   === Uses ===  Metals are present in nearly all aspects of modern life
+  
+ Germanium has a diamond cubic structure (CN 4)
+
+ Iron, a heavy metal, may be the most common as it accounts for 90% of all refined metals; aluminum, a light metal, is the next most commonly refined metal
+  
+ It is a semiconductor with a band gap of about 0
+
+ Pure iron may be the cheapest metallic element of all at cost of about US$0
+  
+67 eV
+
+07 per gram
+  
+ Germanium has a moderate ionisation energy (762 kJ/mol), moderate electron affinity (119 kJ/mol), and moderate electronegativity (2
+
+ Its ores are widespread; it is easy to refine; and the technology involved has been developed over hundreds of years
+  
+01)
+
+ Cast iron is even cheaper, at a fraction of US$0
+  
+ It is a poor oxidising agent (Ge + 4e → GeH4 = –0
+
+01 per gram, because there is no need for subsequent purification
+  
+294 at pH 0)
+
+ Platinum, at a cost of about $27 per gram, may be the most ubiquitous given its very high melting point, resistance to corrosion, electrical conductivity, and durability
+  
+ As a metalloid the chemistry of germanium is largely covalent in nature, noting it can form alloys with metals such as aluminium and gold
+
+ It is said to be found in, or used to produce, 20% of all consumer goods
+  
+ Most alloys of germanium with metals lack metallic or semimetallic conductivity
+
+ Polonium is likely to be the most expensive metal, at a notional cost of about $100,000,000 per gram, due to its scarcity and micro-scale production
+  
+ The common oxide of germanium (GeO2) is amphoteric
+
+ Some metals and metal alloys possess high structural strength per unit mass, making them useful materials for carrying large loads or resisting impact damage
+  
+   === Group 15 ===  Nitrogen is a colourless, odourless, and relatively inert diatomic gas with a density of 1
+
+ Metal alloys can be engineered to have high resistance to shear, torque and deformation
+  
+251 × 10−3 g/cm3 (marginally heavier than air)
+
+ However the same metal can also be vulnerable to fatigue damage through repeated use or from sudden stress failure when a load capacity is exceeded
+  
+ It condenses to a colourless liquid at −195
+
+ The strength and resilience of metals has led to their frequent use in high-rise building and bridge construction, as well as most vehicles, many appliances, tools, pipes, and railroad tracks
+  
+795 °C and freezes into an ice- or snow-like solid at −210
+
+ Metals are good conductors, making them valuable in electrical appliances and for carrying an electric current over a distance with little energy lost
+  
+00 °C
+
+ Electrical power grids rely on metal cables to distribute electricity
+  
+ The solid form (density 0
+
+ Home electrical systems, for the most part, are wired with copper wire for its good conducting properties
+  
+85 g/cm3; cf
+
+ The thermal conductivity of metals is useful for containers to heat materials over a flame
+  
+ lithium 0
+
+ Metals are also used for heat sinks to protect sensitive equipment from overheating
+  
+534) has a hexagonal crystalline structure and is soft and easily crushed
+
+ The high reflectivity of some metals enables their use in mirrors, including precision astronomical instruments, and adds to the aesthetics of metallic jewelry
+  
+ Nitrogen is an insulator in all of its forms
+
+ Some metals have specialized uses; mercury is a liquid at room temperature and is used in switches to complete a circuit when it flows over the switch contacts
+  
+ It has a high ionisation energy (1402
+
+ Radioactive metals such as uranium and plutonium are used in nuclear power plants to produce energy via nuclear fission
+  
+3 kJ/mol), low electron affinity (–6
+
+ Shape memory alloys are used for applications such as pipes, fasteners and vascular stents
+  
+75 kJ/mol), and high electronegativity (3
+
+ Metals can be doped with foreign molecules—organic, inorganic, biological and polymers
+  
+04)
+
+ This doping entails the metal with new properties that are induced by the guest molecules
+  
+ The latter property manifests in the capacity of nitrogen to form usually strong hydrogen bonds, and its preference for forming complexes with metals having low electronegativities, small cationic radii, and often high charges (+3 or more)
+
+ Applications in catalysis, medicine, electrochemical cells, corrosion and more have been developed
+  
+ Nitrogen is a poor oxidising agent (N2 + 6e− → 2NH3 = −0
+
+   === Recycling ===  Demand for metals is closely linked to economic growth given their use in infrastructure, construction, manufacturing, and consumer goods
+  
+057 V at pH 0)
+
+ During the 20th century, the variety of metals used in society grew rapidly
+  
+ Only when it is in a positive oxidation state, that is, in combination with oxygen or fluorine, are its compounds good oxidising agents, for example, 2NO3− → N2 = 1
+
+ Today, the development of major nations, such as China and India, and technological advances, are fuelling ever more demand
+  
+25 V
+
+ The result is that mining activities are expanding, and more and more of the world's metal stocks are above ground in use, rather than below ground as unused reserves
+  
+ Its chemistry is largely covalent in nature; anion formation is energetically unfavourable owing to strong inter electron repulsions associated with having three unpaired electrons in its outer valence shell, hence its negative electron affinity
+
+ An example is the in-use stock of copper
+  
+ The common oxide of nitrogen (NO) is weakly acidic
+
+ Between 1932 and 1999, copper in use in the U
+  
+ Many compounds of nitrogen are less stable than diatomic nitrogen, so nitrogen atoms in compounds seek to recombine if possible and release energy and nitrogen gas in the process, which can be leveraged for explosive purposes
+
+S
+  
+   Phosphorus in its most thermodynamically stable black form, is a lustrous and comparatively unreactive solid with a density of 2
+
+ rose from 73 g to 238 g per person
+  
+69 g/cm3, and is soft (MH 2
+
+Metals are inherently recyclable, so in principle, can be used over and over again, minimizing these negative environmental impacts and saving energy
+  
+0) and has a flaky comportment
+
+ For example, 95% of the energy used to make aluminum from bauxite ore is saved by using recycled material
+  
+ It sublimes at 620 °C
+
+Globally, metal recycling is generally low
+  
+ Black phosphorus has an orthorhombic crystalline structure (CN 3)
+
+ In 2010, the International Resource Panel, hosted by the United Nations Environment Programme published reports on metal stocks that exist within society and their recycling rates
+  
+ It is a semiconductor with a band gap of 0
+
+ The authors of the report observed that the metal stocks in society can serve as huge mines above ground
+  
+3 eV
+
+ They warned that the recycling rates of some rare metals used in applications such as mobile phones, battery packs for hybrid cars and fuel cells are so low that unless future end-of-life recycling rates are dramatically stepped up these critical metals will become unavailable for use in modern technology
+  
+ It has a high ionisation energy (1086
+
+   == Biological interactions ==  In humans, some metals are either essential nutrients (typically iron, cobalt, and zinc), or relatively harmless (such as ruthenium, silver, and indium), but can be toxic in larger amounts or certain forms
+  
+5 kJ/mol), moderate electron affinity (72 kJ/mol), and moderate electronegativity (2
+
+ Other metals, such as cadmium, mercury, and lead, are highly poisonous
+  
+19)
+
+ Potential sources of metal poisoning include mining, tailings, industrial wastes, agricultural runoff, occupational exposure, paints and treated timber
+  
+ In comparison to nitrogen, phosphorus usually forms weak hydrogen bonds, and prefers to form complexes with metals having high electronegativities, large cationic radii, and often low charges (usually +1 or +2
+
+   == History ==   === Prehistory === Copper, which occurs in native form, may have been the first metal discovered given its distinctive appearance, heaviness, and malleability compared to other stones or pebbles
+  
+ Phosphorus is a poor oxidising agent (P4 + 3e− → PH3– = −0
+
+ Gold, silver, and iron (as meteoric iron), and lead were likewise discovered in prehistory
+  
+046 V at pH 0 for the white form, −0
+
+ Forms of brass, an alloy of copper and zinc made by concurrently smelting the ores of these metals, originate from this period (although pure zinc was not isolated until the 13th century)
+  
+088 V for the red)
+
+ The malleability of the solid metals led to the first attempts to craft metal ornaments, tools, and weapons
+  
+ Its chemistry is largely covalent in nature, noting it can form salt-like phosphides with highly electropositive metals
+
+ Meteoric iron containing nickel was discovered from time to time and, in some respects this was superior to any industrial steel manufactured up to the 1880s when alloy steels become prominent
+  
+ Compared to nitrogen, electrons have more space on phosphorus, which lowers their mutual repulsion and results in anion formation requiring less energy
+
+  		 		 		 		 		 		 		 		 		 		   === Antiquity ===  The discovery of bronze (an alloy of copper with arsenic or tin) enabled people to create metal objects which were harder and more durable than previously possible
+  
+ The common oxide of phosphorus (P2O5) is a medium-strength acidic oxide
+
+ Bronze tools, weapons, armor, and building materials such as decorative tiles were harder and more durable than their stone and copper ("Chalcolithic") predecessors
+  
+  When assessing periodicity in the properties of the elements it needs to be borne in mind that the quoted properties of phosphorus tend to be those of its least stable white form rather than, as is the case with all other elements, the most stable form
+
+ Initially, bronze was made of copper and arsenic (forming arsenic bronze) by smelting naturally or artificially mixed ores of copper and arsenic
+  
+ White phosphorus is the most common, industrially important, and easily reproducible allotrope
+
+ The earliest artifacts so far known come from the Iranian plateau in the 5th millennium BCE
+  
+ For those reasons it is the standard state of the element
+
+ It was only later that tin was used, becoming the major non-copper ingredient of bronze in the late 3rd millennium BCE
+  
+ Paradoxically, it is also thermodynamically the least stable, as well as the most volatile and reactive form
+
+ Pure tin itself was first isolated in 1800 BCE by Chinese and Japanese metalworkers
+  
+ It gradually changes to red phosphorus
+
+ Mercury was known to ancient Chinese and Indians before 2000 BCE, and found in Egyptian tombs dating from 1500 BCE
+  
+ This transformation is accelerated by light and heat, and samples of white phosphorus almost always contain some red phosphorus and, accordingly, appear yellow
+
+ The earliest known production of steel, an iron-carbon alloy, is seen in pieces of ironware excavated from an archaeological site in Anatolia (Kaman-Kalehöyük) and are nearly 4,000 years old, dating from 1800 BCE
+  
+ For this reason, white phosphorus that is aged or otherwise impure is also called yellow phosphorus
+
+From about 500 BCE sword-makers of Toledo, Spain were making early forms of alloy steel by adding a mineral called wolframite, which contained tungsten and manganese, to iron ore (and carbon)
+  
+ When exposed to oxygen, white phosphorus glows in the dark with a very faint tinge of green and blue
+
+ The resulting Toledo steel came to the attention of Rome when used by Hannibal in the Punic Wars
+  
+ It is highly flammable and pyrophoric (self-igniting) upon contact with air
+
+ It soon became the basis for the weaponry of Roman legions; their swords were said to have been "so keen that there is no helmet which cannot be cut through by them
+  
+ White phosphorus has a density of 1
+
+"In pre-Columbian America, objects made of tumbaga, an alloy of copper and gold, started being produced in Panama and Costa Rica between 300–500 CE
+  
+823 g/cm3, is soft (MH 0
+
+ Small metal sculptures were common and an extensive range of tumbaga (and gold) ornaments comprised the usual regalia of persons of high status
+  
+5) as wax, pliable and can be cut with a knife
+
+ At around the same time indigenous Ecuadorians were combining gold with a naturally-occurring platinum alloy containing small amounts of palladium, rhodium, and iridium, to produce miniatures and masks composed of a white gold-platinum alloy
+  
+ It melts at 44
+
+ The metal workers involved heated gold with grains of the platinum alloy until the gold melted at which point the platinum group metals became bound within the gold
+  
+15 °C and, if heated rapidly, boils at 280
+
+ After cooling, the resulting conglomeration was hammered and reheated repeatedly until it became as homogenous as if all of the metals concerned had been melted together (attaining the melting points of the platinum group metals concerned was beyond the technology of the day)
+  
+5 °C; it otherwise remains solid and transforms to violet phosphorus at 550 °C
+
+  		 		 		 		 		 		 		 		   === Middle Ages ===  Arabic and medieval alchemists believed that all metals and matter were composed of the principle of sulfur, the father of all metals and carrying the combustible property, and the principle of mercury, the mother of all metals and carrier of the liquidity, fusibility, and volatility properties
+  
+ It has a body-centred cubic structure, analogous to that of manganese, with unit cell comprising 58 P4 molecules
+
+ These principles were not necessarily the common substances sulfur and mercury found in most laboratories
+  
+ It is an insulator with a band gap of about 3
+
+ This theory reinforced the belief that all metals were destined to become gold in the bowels of the earth through the proper combinations of heat, digestion, time, and elimination of contaminants, all of which could be developed and hastened through the knowledge and methods of alchemy
+  
+7 eV
+
+Arsenic, zinc, antimony, and bismuth became known, although these were at first called semimetals or bastard metals on account of their immalleability
+  
+  Arsenic is a grey, metallic looking solid which is stable in dry air but develops a golden bronze patina in moist air, which blackens on further exposure
+
+ All four may have been used incidentally in earlier times without recognising their nature
+  
+ It has a density of 5
+
+ Albertus Magnus is believed to have been the first to isolate arsenic from a compound in 1250, by heating soap together with arsenic trisulfide
+  
+727 g/cm3, and is brittle and moderately hard (MH 3
+
+ Metallic zinc, which is brittle if impure, was isolated in India by 1300 AD
+  
+5; more than aluminium; less than iron)
+
+ The first description of a procedure for isolating antimony is in the 1540 book De la pirotechnia by Vannoccio Biringuccio
+  
+ Arsenic sublimes at 615 °C
+
+ Bismuth was described by Agricola in De Natura Fossilium (c
+  
+ It has a rhombohedral polyatomic crystalline structure (CN 3)
+
+ 1546); it had been confused in early times with tin and lead because of its resemblance to those elements
+  
+ Arsenic is a semimetal, with an electrical conductivity of around 3
+
+  		 		 		 		 		 		 		   === The Renaissance ===  The first systematic text on the arts of mining and metallurgy was De la Pirotechnia (1540) by Vannoccio Biringuccio, which treats the examination, fusion, and working of metals
+  
+9 × 104 S•cm−1 and a band overlap of 0
+
+ Sixteen years later, Georgius Agricola published De Re Metallica in 1556, a clear and complete account of the profession of mining, metallurgy, and the accessory arts and sciences, as well as qualifying as the greatest treatise on the chemical industry through the sixteenth century
+  
+5 eV
+
+ He gave the following description of a metal in his De Natura Fossilium (1546):  Platinum, the third precious metal after gold and silver, was discovered in Ecuador during the period 1736 to 1744, by the Spanish astronomer Antonio de Ulloa and his colleague the mathematician Jorge Juan y Santacilia
+  
+ It has a moderate ionisation energy (947 kJ/mol), moderate electron affinity (79 kJ/mol), and moderate electronegativity (2
+
+ Ulloa was the first person to write a scientific description of the metal, in 1748
+  
+18)
+
+ In 1789, the German chemist Martin Heinrich Klaproth was able to isolate an oxide of uranium, which he thought was the metal itself
+  
+ Arsenic is a poor oxidising agent (As + 3e → AsH3 = –0
+
+ Klaproth was subsequently credited as the discoverer of uranium
+  
+22 at pH 0)
+
+ It was not until 1841, that the French chemist Eugène-Melchior Péligot, was able to prepare the first sample of uranium metal
+  
+ As a metalloid, its chemistry is largely covalent in nature, noting it can form brittle alloys with metals, and has an extensive organometallic chemistry
+
+ Henri Becquerel subsequently discovered radioactivity in 1896 by using uranium
+  
+ Most alloys of arsenic with metals lack metallic or semimetallic conductivity
+
+ In the 1790s, Joseph Priestley and the Dutch chemist Martinus van Marum observed the transformative action of metal surfaces on the dehydrogenation of alcohol, a development which subsequently led, in 1831, to the industrial scale synthesis of sulphuric acid using a platinum catalyst
+  
+ The common oxide of arsenic (As2O3) is acidic but weakly amphoteric
+
+ In 1803, cerium was the first of the lanthanide metals to be discovered, in Bastnäs, Sweden by Jöns Jakob Berzelius and Wilhelm Hisinger, and independently by Martin Heinrich Klaproth in Germany
+  
+  Antimony is a silver-white solid with a blue tint and a brilliant lustre
+
+ The lanthanide metals were largely regarded as oddities until the 1960s when methods were developed to more efficiently separate them from one another
+  
+ It is stable in air and moisture at room temperature
+
+ They have subsequently found uses in cell phones, magnets, lasers, lighting, batteries, catalytic converters, and in other applications enabling modern technologies
+  
+ Antimony has a density of 6
+
+ Other metals discovered and prepared during this time were cobalt, nickel, manganese, molybdenum, tungsten, and chromium; and some of the platinum group metals, palladium, osmium, iridium, and rhodium
+  
+697 g/cm3, and is moderately hard (MH 3
+
+   === Light metals === All metals discovered until 1809 had relatively high densities; their heaviness was regarded as a singularly distinguishing criterion
+  
+0; about the same as copper)
+
+ From 1809 onwards, light metals such as sodium, potassium, and strontium were isolated
+  
+ It has a rhombohedral crystalline structure (CN 3)
+
+ Their low densities challenged conventional wisdom as to the nature of metals
+  
+ Antimony melts at 630
+
+ They behaved chemically as metals however, and were subsequently recognised as such
+  
+63 °C and boils at 1635 °C
+
+ Aluminum was discovered in 1824 but it was not until 1886 that an industrial large-scale production method was developed
+  
+ It is a semimetal, with an electrical conductivity of around 3
+
+ Prices of aluminum dropped and aluminum became widely used in jewelry, everyday items, eyeglass frames, optical instruments, tableware, and foil in the 1890s and early 20th century
+  
+1 × 104 S•cm−1 and a band overlap of 0
+
+ Aluminum's ability to form hard yet light alloys with other metals provided the metal many uses at the time
+  
+16 eV
+
+ During World War I, major governments demanded large shipments of aluminum for light strong airframes
+  
+ Antimony has a moderate ionisation energy (834 kJ/mol), moderate electron affinity (101 kJ/mol), and moderate electronegativity (2
+
+ The most common metal in use for electric power transmission today is aluminum-conductor steel-reinforced
+  
+05)
+
+ Also seeing much use is all-aluminum-alloy conductor
+  
+ It is a poor oxidising agent (Sb + 3e → SbH3 = –0
+
+ Aluminum is used because it has about half the weight of a comparable resistance copper cable (though larger diameter due to lower specific conductivity), as well as being cheaper
+  
+51 at pH 0)
+
+ Copper was more popular in the past and is still in use, especially at lower voltages and for grounding
+  
+ As a metalloid, its chemistry is largely covalent in nature, noting it can form alloys with one or more metals such as aluminium, iron, nickel, copper, zinc, tin, lead and bismuth, and has an extensive organometallic chemistry
+
+ While pure metallic titanium (99
+  
+ Most alloys of antimony with metals have metallic or semimetallic conductivity
+
+9%) was first prepared in 1910 it was not used outside the laboratory until 1932
+  
+ The common oxide of antimony (Sb2O3) is amphoteric
+
+ In the 1950s and 1960s, the Soviet Union pioneered the use of titanium in military and submarine applications as part of programs related to the Cold War
+  
+   === Group 16 ===  Oxygen is a colourless, odourless, and unpredictably reactive diatomic gas with a gaseous density of 1
+
+ Starting in the early 1950s, titanium came into use extensively in military aviation, particularly in high-performance jets, starting with aircraft such as the F-100 Super Sabre and Lockheed A-12 and SR-71
+  
+429 × 10−3 g/cm3 (marginally heavier than air)
+
+ Metallic scandium was produced for the first time in 1937
+  
+ It is generally unreactive at room temperature
+
+ The first pound of 99% pure scandium metal was produced in 1960
+  
+ Thus, sodium metal will "retain its metallic lustre for days in the presence of absolutely dry air and can even be melted (m
+
+ Production of aluminum-scandium alloys began in 1971 following a U
+  
+p
+
+S
+  
+ 97
+
+ patent
+  
+82 °C) in the presence of dry oxygen without igniting"
+
+ Aluminum-scandium alloys were also developed in the USSR
+  
+ On the other hand, oxygen can react with many inorganic and organic compounds either spontaneously or under the right conditions, (such as a flame or a spark) [or ultra-violet light?]
+
+  		 		 		 		 		 		 		 		 		 		 		   === The age of steel ===  The modern era in steelmaking began with the introduction of Henry Bessemer's Bessemer process in 1855, the raw material for which was pig iron
+  
+ It  condenses to pale blue liquid −182
+
+ His method let him produce steel in large quantities cheaply, thus mild steel came to be used for most purposes for which wrought iron was formerly used
+  
+962 °C and freezes into a light blue solid at −218
+
+ The Gilchrist-Thomas process (or basic Bessemer process) was an improvement to the Bessemer process, made by lining the converter with a basic material to remove phosphorus
+  
+79 °C
+
+ Due to its high tensile strength and low cost, steel came to be a major component used in buildings, infrastructure, tools, ships, automobiles, machines, appliances, and weapons
+  
+ The solid form (density 0
+
+ In 1872, the Englishmen Clark and Woods patented an alloy that would today be considered a stainless steel
+  
+0763 g/cm3) has a cubic crystalline structure and is soft and easily crushed
+
+ The corrosion resistance of iron-chromium alloys had been recognized in 1821 by French metallurgist Pierre Berthier
+  
+ Oxygen is an insulator in all of its forms
+
+ He noted their resistance against attack by some acids and suggested their use in cutlery
+  
+ It has a high ionisation energy (1313
+
+ Metallurgists of the 19th century were unable to produce the combination of low carbon and high chromium found in most modern stainless steels, and the high-chromium alloys they could produce were too brittle to be practical
+  
+9 kJ/mol), high electron affinity (141 kJ/mol), and high electronegativity (3
+
+ It was not until 1912 that the industrialisation of stainless steel alloys occurred in England, Germany, and the United States
+  
+44)
+
+   === The last stable metallic elements === By 1900 three metals with atomic numbers less than lead (#82), the heaviest stable metal, remained to be discovered: elements 71, 72, 75
+  
+ Oxygen is a strong oxidising agent (O2 + 4e → 2H2O = 1
+
+ Von Welsbach, in 1906, proved that the old ytterbium also contained a new element (#71), which he named cassiopeium
+  
+23 V at pH 0)
+
+ Urbain proved this simultaneously, but his samples were very impure and only contained trace quantities of the new element
+  
+ Metal oxides are largely ionic in nature
+
+ Despite this, his chosen name lutetium was adopted
+  
+  Sulfur is a bright-yellow moderately reactive solid
+
+ In 1908, Ogawa found element 75 in thorianite but assigned it as element 43 instead of 75 and named it nipponium
+  
+ It has a density of 2
+
+ In 1925 Walter Noddack, Ida Eva Tacke and Otto Berg announced its separation from gadolinite and gave it the present name, rhenium
+  
+07 g/cm3 and is soft (MH 2
+
+ Georges Urbain claimed to have found element 72 in rare-earth residues, while Vladimir Vernadsky independently found it in orthite
+  
+0) and brittle
+
+ Neither claim was confirmed due to World War I, and neither could be confirmed later, as the chemistry they reported does not match that now known for hafnium
+  
+ It melts to a light yellow liquid 95
+
+ After the war, in 1922, Coster and Hevesy found it by X-ray spectroscopic analysis in Norwegian zircon
+  
+3 °C and boils at 444
+
+ Hafnium was thus the last stable element to be discovered
+  
+6 °C
+
+  		 		 		 		 		 By the end of World War II scientists had synthesized four post-uranium elements, all of which are radioactive (unstable) metals: neptunium (in 1940), plutonium (1940–41), and curium and americium (1944), representing elements 93 to 96
+  
+ Sulfur has an abundance on earth one-tenth that of oxygen
+
+ The first two of these were eventually found in nature as well
+  
+ It has an orthorhombic polyatomic (CN 2) crystalline structure, and is brittle
+
+ Curium and americium were by-products of the Manhattan project, which produced the world's first atomic bomb in 1945
+  
+ Sulfur is an insulator with a band gap of 2
+
+ The bomb was based on the nuclear fission of uranium, a metal first thought to have been discovered nearly 150 years earlier
+  
+6 eV, and a photoconductor meaning its electrical conductivity increases a million-fold when illuminated
+
+   === Post-World War II developments ===   ==== Superalloys ==== Superalloys composed of combinations of Fe, Ni, Co, and Cr, and lesser amounts of W, Mo, Ta, Nb, Ti, and Al were developed shortly after World War II for use in high performance engines, operating at elevated temperatures (above 650 °C (1,200 °F))
+  
+ Sulfur has a moderate ionisation energy (999
+
+ They retain most of their strength under these conditions, for prolonged periods, and combine good low-temperature ductility with resistance to corrosion or oxidation
+  
+6 kJ/mol), moderate electron affinity (200 kJ/mol), and high electronegativity (2
+
+ Superalloys can now be found in a wide range of applications including land, maritime, and aerospace turbines, and chemical and petroleum plants
+  
+58)
+
+   ==== Transcurium metals ==== The successful development of the atomic bomb at the end of World War II sparked further efforts to synthesize new elements, nearly all of which are, or are expected to be, metals, and all of which are radioactive
+  
+ It is a poor oxidising agent (S8 + 2e− → H2S = 0
+
+ It was not until 1949 that element 97 (berkelium), next after element 96 (curium), was synthesized by firing alpha particles at an americium target
+  
+14 V at pH 0)
+
+ In 1952, element 100 (fermium) was found in the debris of the first hydrogen bomb explosion; hydrogen, a nonmetal, had been identified as an element nearly 200 years earlier
+  
+ The chemistry of sulfur is largely covalent in nature, noting it can form ionic sulfides with highly electropositive metals
+
+ Since 1952, elements 101 (mendelevium) to 118 (oganesson) have been synthesized
+  
+ The common oxide of sulfur (SO3) is strongly acidic
+
+   ==== Bulk metallic glasses ==== A metallic glass (also known as an amorphous or glassy metal) is a solid metallic material, usually an alloy, with disordered atomic-scale structure
+  
+  Selenium is a metallic-looking, moderately reactive solid with a density of 4
+
+ Most pure and alloyed metals, in their solid state, have atoms arranged in a highly ordered crystalline structure
+  
+81 g/cm3 and is soft (MH 2
+
+ Amorphous metals have a non-crystalline glass-like structure
+  
+0) and brittle
+
+ But unlike common glasses, such as window glass, which are typically electrical insulators, amorphous metals have good electrical conductivity
+  
+ It melts at 221 °C to a black liquid and boils at 685 °C to a dark yellow vapour
+
+ Amorphous metals are produced in several ways, including extremely rapid cooling, physical vapor deposition, solid-state reaction, ion irradiation, and mechanical alloying
+  
+ Selenium has a hexagonal polyatomic (CN 2) crystalline structure
+
+ The first reported metallic glass was an alloy (Au75Si25) produced at Caltech in 1960
+  
+ It is a semiconductor with a band gap of 1
+
+ More recently, batches of amorphous steel with three times the strength of conventional steel alloys have been produced
+  
+7 eV, and a photoconductor meaning its electrical conductivity increases a million-fold when illuminated
+
+ Currently the most important applications rely on the special magnetic properties of some ferromagnetic metallic glasses
+  
+ Selenium has a moderate ionisation energy (941
+
+ The low magnetization loss is used in high efficiency transformers
+  
+0 kJ/mol), high electron affinity (195 kJ/mol), and high electronegativity (2
+
+ Theft control ID tags and other article surveillance schemes often use metallic glasses because of these magnetic properties
+  
+55)
+
+   ==== Shape-memory alloys ==== A shape-memory alloy (SMA) is an alloy that "remembers" its original shape and when deformed returns to its pre-deformed shape when heated
+  
+ It is a poor oxidising agent (Se + 2e− → H2Se = −0
+
+ While the shape memory effect had been first observed in 1932, in an Au-Cd alloy, it was not until 1962, with the accidental discovery of the effect in a Ni-Ti alloy that research began in earnest, and another ten years before commercial applications emerged
+  
+082 V at pH 0)
+
+ SMA's have applications in robotics and automotive, aerospace and biomedical industries
+  
+ The chemistry of selenium is largely covalent in nature, noting it can form ionic selenides with highly electropositive metals
+
+ There is another type of SMA, called a ferromagnetic shape-memory alloy (FSMA), that changes shape under strong magnetic fields
+  
+ The common oxide of selenium (SeO3) is strongly acidic
+
+ These materials are of particular interest as the magnetic response tends to be faster and more efficient than temperature-induced responses
+  
+  Tellurium is a silvery-white, moderately reactive, shiny solid, that has a density of 6
+
+   ==== Quasicyrstalline alloys ====  In 1984, Israeli chemist Dan Shechtman found an aluminum-manganese alloy having five-fold symmetry, in breach of crystallographic convention at the time which said that crystalline structures could only have two-, three-, four-, or six-fold symmetry
+  
+24 g/cm3 and is soft (MH 2
+
+ Due to fear of the scientific community's reaction, it took him two years to publish the results for which he was awarded the Nobel Prize in Chemistry in 2011
+  
+25) and brittle
+
+ Since this time, hundreds of quasicrystals have been reported and confirmed
+  
+ It is the softest of the commonly recognised metalloids
+
+ They exist in many metallic alloys (and some polymers)
+  
+ Tellurium reacts with boiling water, or when freshly precipitated even at 50 °C, to give the dioxide and hydrogen: Te + 2 H2O → TeO2 + 2 H2
+
+ Quasicrystals are found most often in aluminum alloys (Al-Li-Cu, Al-Mn-Si, Al-Ni-Co, Al-Pd-Mn, Al-Cu-Fe, Al-Cu-V, etc
+  
+ It has a melting point of 450 °C and a boiling point of 988 °C
+
+), but numerous other compositions are also known (Cd-Yb, Ti-Zr-Ni, Zn-Mg-Ho, Zn-Mg-Sc, In-Ag-Yb, Pd-U-Si, etc
+  
+ Tellurium has a polyatomic (CN 2) hexagonal crystalline structure
+
+)
+  
+ It is a semiconductor with a band gap of 0
+
+ Quasicrystals effectively have infinitely large unit cells
+  
+32 to 0
+
+ Icosahedrite Al63Cu24Fe13, the first quasicrystal found in nature, was discovered in 2009
+  
+38 eV
+
+ Most quasicrystals have ceramic-like properties including low electrical conductivity (approaching values seen in insulators) and low thermal conductivity, high hardness, brittleness, and resistance to corrosion, and non-stick properties
+  
+ Tellurium has a moderate ionisation energy (869
+
+ Quasicrystals have been used to develop heat insulation, LEDs, diesel engines, and new materials that convert heat to electricity
+  
+3 kJ/mol), high electron affinity (190 kJ/mol), and moderate electronegativity (2
+
+ New applications may take advantage of the low coefficient of friction and the hardness of some quasicrystalline materials, for example embedding particles in plastic to make strong, hard-wearing, low-friction plastic gears
+  
+1)
+
+ Other potential applications include selective solar absorbers for power conversion, broad-wavelength reflectors, and bone repair and prostheses applications where biocompatibility, low friction and corrosion resistance are required
+  
+ It is a poor oxidising agent (Te + 2e− → H2Te = −0
+
+   ==== Complex metallic alloys ==== Complex metallic alloys (CMAs) are intermetallic compounds characterized by large unit cells comprising some tens up to thousands of atoms; the presence of well-defined clusters of atoms (frequently with icosahedral symmetry); and partial disorder within their crystalline lattices
+  
+45 V at pH 0)
+
+ They are composed of two or more metallic elements, sometimes with metalloids or chalcogenides added
+  
+ The chemistry of tellurium is largely covalent in nature, noting it has an extensive organometallic chemistry and that many tellurides can be regarded as metallic alloys
+
+ They include, for example, NaCd2, with 348 sodium atoms and 768 cadmium atoms in the unit cell
+  
+ The common oxide of tellurium (TeO2) is amphoteric
+
+ Linus Pauling attempted to describe the structure of NaCd2 in 1923, but did not succeed until 1955
+  
+   === Group 17 ===  Fluorine is an extremely toxic and reactive pale yellow diatomic gas that, with a gaseous density of 1
+
+ At first called "giant unit cell crystals", interest in CMAs, as they came to be called, did not pick up until 2002, with the publication of a paper called "Structurally Complex Alloy Phases", given at the 8th International Conference on Quasicrystals
+  
+696 × 10−3 g/cm3, is about 40% heavier than air
+
+ Potential applications of CMAs include as heat insulation; solar heating; magnetic refrigerators; using waste heat to generate electricity; and coatings for turbine blades in military engines
+  
+ Its extreme reactivity is such that it was not isolated (via electrolysis) until 1886 and was not isolated chemically until 1986
+
+   ==== High entropy alloys ==== High entropy alloys (HEAs) such as AlLiMgScTi are composed of equal or nearly equal quantities of five or more metals
+  
+ Its occurrence in an uncombined state in nature was first reported in 2012, but is contentious
+
+ Compared to conventional alloys with only one or two base metals, HEAs have considerably better strength-to-weight ratios, higher tensile strength, and greater resistance to fracturing, corrosion, and oxidation
+  
+ Fluorine condenses to a pale yellow liquid at −188
+
+ Although HEAs were described as early as 1981, significant interest did not develop until the 2010s; they continue to be the focus of research in materials science and engineering because of their potential for desirable properties
+  
+11 °C and freezes into a colourless solid at −219
+
+   ==== MAX phase alloys ==== In a MAX phase alloy, M is an early transition metal, A is an A group element (mostly group IIIA and IVA, or groups 13 and 14), and X is either carbon or nitrogen
+  
+67 °C
+
+ Examples are Hf2SnC and Ti4AlN3
+  
+ The solid form (density 1
+
+ Such alloys have some of the best properties of metals and ceramics
+  
+7 g/cm−3) has a cubic crystalline structure and is soft and easily crushed
+
+ These properties include high electrical and thermal conductivity, thermal shock resistance, damage tolerance, machinability, high elastic stiffness, and low thermal expansion coefficients
+  
+ Fluorine is an insulator in all of its forms
+
+</ref> They can be polished to a metallic luster because of their excellent electrical conductivities
+  
+ It has a high ionisation energy (1681 kJ/mol), high electron affinity (328 kJ/mol), and high electronegativity (3
+
+ During mechanical testing, it has been found that polycrystalline Ti3SiC2 cylinders can be repeatedly compressed at room temperature, up to stresses of 1 GPa, and fully recover upon the removal of the load
+  
+98)
+
+ Some MAX phases are also highly resistant to chemical attack (e
+  
+ Fluorine is a powerful oxidising agent (F2 + 2e → 2HF = 2
+
+g
+  
+87 V at pH 0); "even water, in the form of steam, will catch fire in an atmosphere of fluorine"
+
+ Ti3SiC2) and high-temperature oxidation in air (Ti2AlC, Cr2AlC2, and Ti3AlC2)
+  
+ Metal fluorides are generally ionic in nature
+
+ Potential applications for MAX phase alloys include: as tough, machinable, thermal shock-resistant refractories; high-temperature heating elements; coatings for electrical contacts; and neutron irradiation resistant parts for nuclear applications
+  
+  Chlorine is an irritating green-yellow diatomic gas that is extremely reactive, and has a gaseous density of 3
+
+ While MAX phase alloys were discovered in the 1960s, the first paper on the subject was not published until 1996
+  
+2 × 10−3 g/cm3 (about 2
+
+   == See also ==   == Notes ==   == References ==   == Further reading == Crow J
+  
+5 times heavier than air)
+
+M
+  
+ It condenses at −34
+
+ 2016, "Impossible alloys: How to make never-before-seen metals", New Scientist, 12 October Parish R
+  
+04 °C to an amber-coloured liquid  and freezes at −101
+
+V
+  
+5 °C into a yellow crystalline solid
+
+ 1977, The Metallic Elements, Longman, London, ISBN 978-0-582-44278-8 Raymond R
+  
+ The solid form (density 1
+
+ 1984, Out of the Fiery Furnace: The Impact of Metals on the History of Mankind, Macmillan Australia, Melbourne, ISBN 978-0-333-38024-6 Russell A
+  
+9 g/cm−3) has an orthorhombic crystalline structure and is soft and easily crushed
+
+M
+  
+ Chlorine is an insulator in all of its forms
+
+ & Lee K L
+  
+ It has a high ionisation energy (1251
+
+ 2005, Structure–Property Relations in Nonferrous Metals, John Wiley & Sons, Hoboken, New Jersey, ISBN 978-0-471-64952-6 Street A
+  
+2 kJ/mol), high electron affinity (349 kJ/mol; higher than fluorine), and high electronegativity (3
+
+ & Alexander W
+  
+16)
+
+ 1998, Metals in the Service of Man (11th ed
+  
+ Chlorine is a strong oxidising agent (Cl2 + 2e → 2HCl = 1
+
+), Penguin Books, London, ISBN 978-0-14-025776-2 Wilson A
+  
+36 V at pH 0)
+
+J
+  
+ Metal chlorides are largely ionic in nature
+
+ 1994, The Living Rock: The Story of Metals Since Earliest Times and Their Impact on Developing Civilization, Woodhead Publishing, Cambridge, ISBN 978-1-85573-154-7   == External links == ASM International (formerly the American Society for Metals) Strong as Titanium, Cheap as Dirt: New Steel Alloy Shines The Minerals, Metals & Materials Society Home Page
+  
+ The common oxide of chlorine (Cl2O7) is strongly acidic
+
